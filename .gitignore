@@ -1,0 +1,22 @@
+# Node.js dependencies  
+node_modules/  
+npm-debug.log*  
+package-lock.json  
+
+# Uploaded audio files (temporary files)
+uploads/  
+processed/  
+
+# FFmpeg output files  
+*.mp3  
+*.wav  
+*.aac  
+
+# Logs & temporary files  
+logs/  
+*.log  
+.DS_Store  
+Thumbs.db  
+
+# Environment variables (if you ever use .env)  
+.env  
